@@ -1,4 +1,4 @@
-# Suffix-Tree-Gorsellestirme
+# Suffix Tree Görselleştirme
 Program açıldıgında ilk olarak kullanıcıya gösterilen
 menuden bir seçim yapması istenir. Kullanıcı bir seçim
 yaptıgında program kullanıcıdan programın okuyacağı dosya ismi
